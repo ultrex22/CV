@@ -1,0 +1,30 @@
+img {
+  border: 1px solid;
+  border-radius: 75px;
+}
+
+body {
+  background-color: #2991bd;
+  color: #E8F0F2
+}
+
+a {
+  color: #053742;
+}
+
+h1, h3 {
+  color: purple;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-color: purple;
+  border-width: 4px;
+  width: 10%;
+}
+
+.wife {
+  border-radius: 20px;
+  height: 440px;
+  width: 360px;
+}
